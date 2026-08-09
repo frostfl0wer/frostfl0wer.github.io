@@ -1,3 +1,18 @@
 body{
     font-family: DengXian;
+    /*background-color: #F5A9B8;*/
+    background-image: linear-gradient(to top, white, #F5A9B8);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.img_hoshino img{
+    width: 200px;
+    height: 200px;
+}
+.txt_hoshino{
+    position: relative;
+    top:-150px;
+    left:870px;
+    font-family: "Calibri", serif;
 }
